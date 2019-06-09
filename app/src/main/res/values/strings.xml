@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fakarny</string>
+    <string name="title_home">Home</string>
+    <string name="title_recognizer">Recognizer</string>
+    <string name="title_profile">Profile</string>
+    <string name="trusted_members">Trusted Members</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Log Out</string>
+</resources>
